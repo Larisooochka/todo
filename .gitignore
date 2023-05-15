@@ -203,6 +203,8 @@ backend/.env.local
 venv/
 ENV/
 
+/backend/tasks/migrations/
+
 # Spyder project settings
 .spyderproject
 .spyproject
